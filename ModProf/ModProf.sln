@@ -9,6 +9,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DLLDatos", "..\..\DLLDatos\
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DLLNegocios", "..\..\DLLNegocios\DLLNegocios.vbproj", "{456C358C-2E04-4DEF-9C75-ABB51056A29C}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SAE", "..\..\LibreriaCom\SAE.vbproj", "{40F5EC15-51A3-466F-896C-4FFBC6614DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{456C358C-2E04-4DEF-9C75-ABB51056A29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{456C358C-2E04-4DEF-9C75-ABB51056A29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{456C358C-2E04-4DEF-9C75-ABB51056A29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F5EC15-51A3-466F-896C-4FFBC6614DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F5EC15-51A3-466F-896C-4FFBC6614DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F5EC15-51A3-466F-896C-4FFBC6614DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F5EC15-51A3-466F-896C-4FFBC6614DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
