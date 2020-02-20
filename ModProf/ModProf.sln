@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ModProf", "ModProf\ModProf.vbproj", "{22E1728F-16D9-4441-84DF-E96776A734BB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{40F5EC15-51A3-466F-896C-4FFBC6614DE6} = {40F5EC15-51A3-466F-896C-4FFBC6614DE6}
+	EndProjectSection
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DLLDatos", "..\..\DLLDatos\DLLDatos.vbproj", "{A742FC44-5E66-4140-8F30-31784A8F50F5}"
 EndProject
